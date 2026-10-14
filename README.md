@@ -86,7 +86,7 @@ Aquí `nuevaTarea` guarda lo que el usuario escribe en el input, y `setNuevaTare
 ## 🔗 Enlaces del Proyecto
 
 - **Repositorio de GitHub:** [https://github.com/aleksardio/t3_act4_react](https://github.com/aleksardio/t3_act4_react)
-- **Proyecto desplegado en GitHub Pages:** [https://github.com/aleksardio/t3_act4_react](https://github.com/aleksardio/t3_act4_react)
+- **Proyecto desplegado en GitHub Pages:** [https://aleksardio.github.io/t3_act4_react/](https://aleksardio.github.io/t3_act4_react/)
 
 ---
 
